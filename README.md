@@ -1,5 +1,5 @@
 # AdvancedJavaApp
-# SpringBoot 3.0 Java Security Features: Authentication and Authorization
+## SpringBoot 3.0 Java Security Features: Authentication and Authorization
 
 Test App on postman with the following inputs:
 -- Add new user
