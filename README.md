@@ -1,5 +1,7 @@
 # AdvancedJavaApp
-Spring Java Features
+# SpringBoot 3.0 Java Features
+
+Test App on postman with the following inputs:
 -- Add new user
         "name":"user1",
         "username": "user1",
